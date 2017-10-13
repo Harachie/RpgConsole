@@ -69,6 +69,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arena.vb" />
+    <Compile Include="ArenaResult.vb" />
+    <Compile Include="ArenaStep.vb" />
     <Compile Include="Character.vb" />
     <Compile Include="Program.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
